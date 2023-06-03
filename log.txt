@@ -1,0 +1,63 @@
+Thu Apr 20 16:35:55 2023
+ Invalid ID Штатная
+Thu Apr 20 16:43:59 2023
+ Invalid ID Штатная
+Thu Apr 20 16:44:01 2023
+ Invalid ID Штатная
+Thu Apr 20 16:44:03 2023
+ Invalid ID Штатная
+Thu Apr 20 21:33:48 2023
+ Invalid ID Штатная
+Thu Apr 20 21:37:43 2023 Invalid ID Штатная
+Thu Apr 20 21:37:47 2023 Invalid ID Штатная
+Thu Apr 20 21:37:50 2023 Invalid ID Штатная
+Thu Apr 20 21:37:55 2023 Invalid ID Штатная
+Thu Apr 20 21:38:46 2023 Socket bind error Критическая
+Thu Apr 20 21:38:53 2023 Socket bind error Критическая
+Thu Apr 20 21:38:54 2023 Socket bind error Критическая
+Thu Apr 20 21:39:21 2023 Invalid ID Штатная
+Thu Apr 20 21:42:32 2023 Invalid ID Штатная
+Thu Apr 20 21:46:25 2023 Wrong DB File Name Критическая
+Fri Apr 21 06:54:49 2023 Invalid ID Критическая
+Fri Apr 21 07:41:56 2023 Socket bind error Критическая
+Fri Apr 21 07:42:08 2023 Socket bind error Критическая
+Fri Apr 21 07:42:12 2023 Socket bind error Критическая
+Fri Apr 21 07:50:43 2023 Invalid ID Штатная
+Fri Apr 21 08:05:10 2023 Invalid ID Штатная
+Fri Apr 21 08:24:08 2023 Invalid ID Штатная
+Fri Apr 21 18:12:05 2023 Invalid ID Штатная
+Sun Apr 23 08:31:19 2023 Invalid ID Штатная
+Sun Apr 23 14:52:47 2023 Invalid ID Штатная
+Sun Apr 23 15:07:59 2023 Invalid ID Штатная
+Sun Apr 23 15:17:02 2023 Invalid ID Штатная
+Sun Apr 23 15:22:40 2023 Invalid ID Штатная
+Sun Apr 23 15:23:26 2023 Socket bind error Критическая
+Sun Apr 23 15:23:30 2023 Socket bind error Критическая
+Sun Apr 23 15:24:27 2023 Invalid ID Штатная
+Sun Apr 23 15:24:33 2023 Invalid ID Штатная
+Sun Apr 23 15:25:49 2023 Invalid ID Штатная
+Sun Apr 23 15:26:49 2023 Socket bind error Критическая
+Sun Apr 23 15:27:00 2023 Invalid ID Штатная
+Sun Apr 23 15:34:12 2023 Invalid ID Штатная
+Sun Apr 23 15:40:09 2023 Invalid ID Штатная
+Sun Apr 23 15:41:50 2023 Invalid ID Штатная
+Sun Apr 23 15:43:12 2023 Invalid ID Штатная
+Sun Apr 23 15:47:45 2023 Invalid ID Штатная
+Sun Apr 23 15:47:57 2023 Invalid ID Штатная
+Sun Apr 23 15:50:53 2023 Invalid Hash Штатная
+Sun Apr 23 15:52:10 2023 Invalid Hash Штатная
+Sun Apr 23 15:52:29 2023 Invalid ID Штатная
+Sun Apr 23 15:53:14 2023 Invalid Hash Штатная
+Sun Apr 23 15:53:32 2023 Invalid Hash Штатная
+Sun Apr 23 16:00:21 2023 Invalid Hash Штатная
+Sun Apr 23 16:00:46 2023 Invalid Hash Штатная
+Sun Apr 23 16:02:33 2023 Invalid Hash Штатная
+Sun Apr 23 16:05:29 2023 Invalid ID Штатная
+Sun Apr 23 16:12:37 2023 Invalid Hash Штатная
+Sun Apr 23 16:14:12 2023 Invalid Hash Штатная
+Sun Apr 23 16:19:11 2023 Invalid Hash Штатная
+Sun Apr 23 16:20:17 2023 Invalid ID Штатная
+Sun Apr 23 16:26:00 2023 Socket bind error Критическая
+Sun Apr 23 16:34:59 2023 Wrong DB File Name Критическая
+Sun Apr 23 16:45:03 2023 Socket bind error Критическая
+Sun Apr 23 16:45:28 2023 Wrong DB File Name Критическая
